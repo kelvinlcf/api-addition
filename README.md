@@ -4,7 +4,7 @@ API URL: http://api-addition.herokuapp.com
 
 POST Request only
 
-parameter:
-
-  a : Integer
+parameter: {
+  a : Integer,
   b : Integer
+}
